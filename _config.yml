@@ -15,9 +15,8 @@ title: Mohamed Abdelrazek's Porfolio # This is what shows up in the tab of the b
 name: Mohamed Abdelrazek
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Passionate Electrical Engineering student with hands-on leadership experience in both automotive and industrial sectors. As the Electrical Head for a competitive racing team, I lead the development of high-performance electric vehicle systems and manage the full design cycle from concept to competition. I also have practical training in industrial automation, including PLC programming, control panel design, and motor drives.
+  Eager to apply my skills in electrical design, system integration, and project leadership to innovate within the fields of electric mobility, automation, or sustainable energy. Actively looking for opportunities where I can contribute to impactful engineering projects and continue growing as a technical leader.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/Profile-Image.jpeg
