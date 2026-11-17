@@ -7,15 +7,15 @@
 
 # Main Page Setup
 
-title: Mohamed Abdelrazek's Porfolio # This is what shows up in the tab of the browser
+title: Mohamed Abdelrazek's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
 name: Mohamed Abdelrazek
-headline: headline message
+headline: Electrical Power & Machines Eng. student || Electrical Head @ MRT || EV Powertrain, Batteries & MBD
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Passionate Electrical Engineering student with hands-on leadership experience in both automotive and industrial sectors. As the Electrical Head for a competitive racing team, I lead the development of high-performance electric vehicle systems and manage the full design cycle from concept to competition.
+  Passionate Electrical Engineering student with hands-on leadership experience in automotive sectors. As the Electrical Head for a competitive racing team, I lead the development of high-performance electric vehicle systems and manage the full design cycle from concept to competition.
   Eager to apply my skills in electrical design, system integration, and project leadership to innovate within the fields of electric mobility, automation, or sustainable energy. Actively looking for opportunities where I can contribute to impactful engineering projects and continue growing as a technical leader.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
@@ -51,7 +51,6 @@ skills:
     - Li-ion Battery Pack Design
     - Battery Management Systems (BMS)
     - Regenerative Braking
-    - Precharge Circuit Design
   - category: Model-Based Design
     tools:
     - MATLAB/Simulink
@@ -59,12 +58,10 @@ skills:
     - Simscape
     - Embedded Coder
     - MIL / SIL / HIL Testing
-    - Automatic C Code Generation
   - category: Vehicle Simulation
     tools:
     - IPG CarMaker
     - OptimumLab
-    - Drive Cycle Modeling
   - category: Programming
     tools:
     - MATLAB
@@ -75,7 +72,6 @@ skills:
     - AutoCAD (Wiring Schematics)
     - SolidWorks (3D Wiring Harness)
     - Proteus
-    - Arduino
   - category: Leadership
     tools:
     - Project Management
